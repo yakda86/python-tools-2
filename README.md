@@ -25,7 +25,7 @@ source venv/Scripts/activate
 source venv/bin/activate
 ```
 
-Тесты запускаются через `pytest`. Нужная версия указана в `requirements.txt`, утановить её можно так:
+Тесты запускаются через `pytest`. Нужная версия указана в `requirements.txt`, установить её можно так:
 
 ```
 pip install -r requirements.txt
